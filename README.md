@@ -1,9 +1,10 @@
 ## Hello, I'm Ariel! 👋
+Hello!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielbendahan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
