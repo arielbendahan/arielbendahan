@@ -1,7 +1,7 @@
 ## Hello, I'm Ariel! 👋
 Hello!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielbendahan)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielbendahan&layout=compact)
 
 
 <!--
