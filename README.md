@@ -1,6 +1,8 @@
 ## Hello, I'm Ariel! 👋
-Hello!
+Hello! My name is Ariel and, I am a passionate programmer and I strive 
 
+
+# Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielbendahan&layout=compact)
 
 
