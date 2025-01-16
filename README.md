@@ -1,5 +1,7 @@
 ## Hello, I'm Ariel! 👋
-Hello! My name is Ariel and, I am a passionate programmer and I strive 
+I'm a passionate programmer dedicated to staying ahead of the curve by exploring the latest tech trends.
+
+You can learn more about me on my portfolio <a href="https://ariels-portfolio.vercel.app/">here</a> 👈
 
 
 ### Languages
