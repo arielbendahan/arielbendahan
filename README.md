@@ -1,7 +1,7 @@
 ## Hello, I'm Ariel! 👋
 I'm a passionate programmer dedicated to staying ahead of the curve by exploring the latest tech trends.
 
-You can learn more about me on my portfolio <a href="https://ariels-portfolio.vercel.app/">here</a> 👈
+You can learn more about me on my portfolio <a href="https://ariels-portfolio.vercel.app/" target=_blank>here</a> 👈
 
 
 ### Languages
