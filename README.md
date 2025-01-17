@@ -1,7 +1,10 @@
 ## Hello, I'm Ariel! 👋
-I'm a passionate programmer dedicated to staying ahead of the curve by exploring the latest tech trends.
+Hello, I'm Ariel.
+I am a computer science student finishing my DEC at Collège LaSalle. I'm currently looking for an internship position where I can apply my skills in mobile development and knowledge learned throughout my studies 
+
 
 You can learn more about me on my portfolio <a href="https://ariels-portfolio.vercel.app/">here</a> 👈
+
 
 
 ## Languages
@@ -23,11 +26,6 @@ You can learn more about me on my portfolio <a href="https://ariels-portfolio.ve
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielbendahan&layout=compact&langs_count=6)
 
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+<br>
+You can reach me at <a href="mailto:arielbendahan01@gmail.com">arielbendahan01@gmail.com</a>
+Or you can also visit my LinkedIn <a href="https://www.linkedin.com/in/ariel-bendahan-a481b02a3/">here</a> 👈
