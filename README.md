@@ -27,5 +27,9 @@ You can learn more about me on my portfolio <a href="https://ariels-portfolio.ve
 
 
 <br>
-You can reach me at <a href="mailto:arielbendahan01@gmail.com">arielbendahan01@gmail.com</a>
+
+<p>
+You can reach me at <a href="mailto:arielbendahan01@gmail.com">arielbendahan01@gmail.com</a> </p>
 Or you can also visit my LinkedIn <a href="https://www.linkedin.com/in/ariel-bendahan-a481b02a3/">here</a> 👈
+
+
