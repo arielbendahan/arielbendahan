@@ -1,6 +1,6 @@
 ## Hello, I'm Ariel! 👋
 Hello, I'm Ariel.
-I am a computer science student finishing my DEC at Collège LaSalle Montréal. I'm currently looking for an internship position where I can apply my skills in mobile development and knowledge learned throughout my studies 
+I am a computer science student finishing my DEC at Collège LaSalle Montréal. I'm currently looking for an internship position where I can apply my skills in full-stack development and knowledge learned throughout my studies 
 
 
 You can learn more about me on my portfolio <a href="https://ariels-portfolio.vercel.app/">here</a> 👈
